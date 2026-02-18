@@ -1,0 +1,1 @@
+export { movieService } from "./tmdb";
